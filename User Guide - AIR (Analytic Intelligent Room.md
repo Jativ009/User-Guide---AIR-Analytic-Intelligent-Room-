@@ -5,6 +5,7 @@
 Halaman pertama yang diakses oleh pengguna saat membuka aplikasi.  
 Fitur yang tersedia:
 - **Login:** Masuk menggunakan akun yang sudah terdaftar.
+  ![Login](imeges/Login.jng)
 - **Register:** Mendaftarkan akun baru jika belum memiliki akun sebelumnya.
 
 **Panduan Penggunaan:**
